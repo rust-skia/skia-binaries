@@ -1,6 +1,6 @@
 # Skia Binaries
 
-**TLDR: All things here are generated, please open issues [in the rust-skia repository](https://github.com/rust-skia/rust-skia/issues/new)**.  
+**TLDR: All things here are generated, open issues [in the rust-skia repository](https://github.com/rust-skia/rust-skia/issues/new)**.  
 
 [This repository's releases tab](https://github.com/rust-skia/skia-binaries/releases) contains binary builds for Skia, the skia-bindings library, and the Rust bindings `src/bindings.rs`. These files are generated on the CI server in the [rust-skia repository](https://github.com/rust-skia/rust-skia) for each commit to the `release` branch.
 
